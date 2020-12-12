@@ -2,13 +2,15 @@
   
   <h1 align="center">
     CounterApp
+  </h1>
     <br>
   <br>
       <img src="Images/Image.png" alt="Image" width="200" height="176">
     <br>
   <br>
+  <h3>
     <a href="https://counterapp-459a3.web.app/">Live Preview</a>
-  </h1>
+  </h3>
 </p>
 
 ## The Project
