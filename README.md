@@ -3,7 +3,6 @@
   <h1 align="center">
     CounterApp
   </h1>
-    <br>
   <h3 align="center">
       <img src="Images/Image.png" alt="Image" width="200" height="176">
     <br>
