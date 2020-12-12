@@ -4,7 +4,6 @@
     CounterApp
   </h1>
     <br>
-  <br>
   <h3 align="center">
       <img src="Images/Image.png" alt="Image" width="200" height="176">
     <br>
