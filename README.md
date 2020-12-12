@@ -1,5 +1,3 @@
-<p align="center">
-  
   <h1 align="center">
     CounterApp
   </h1>
@@ -9,7 +7,6 @@
   <br>
     <a href="https://counterapp-459a3.web.app/">Live Preview</a>
   </h3>
-</p>
 
 ## The Project
 
@@ -29,8 +26,6 @@ The functions are called through an event listener (addEventListener) which, acc
 * ```JAVASCRIPT```
 
 
-
-<!-- CONTACT -->
 ## Link
 
-Project Link: [https://counterapp-459a3.web.app/](https://counterapp-459a3.web.app/)
+Project Link: <a href="https://counterapp-459a3.web.app/">https://counterapp-459a3.web.app/</a>
