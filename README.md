@@ -9,7 +9,6 @@
   </h1>
 </p>
 
-<!-- THE PROJECT -->
 ## The Project
 
 CounterApp is a simple counter program that increases and decreases the number based on the user's selection.
