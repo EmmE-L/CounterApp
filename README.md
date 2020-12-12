@@ -3,7 +3,7 @@
   <h1 align="center">
     CounterApp
     <br />
-      <img src="images/image.png" alt="Image" width="80" height="80">
+      <img src="Images/image.png" alt="Image" width="80" height="80">
     <br />
     <a href="https://counterapp-459a3.web.app/">Live Preview</a>
   </h1>
