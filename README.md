@@ -3,7 +3,7 @@
   <h1 align="center">
     CounterApp
     <br />
-      <img src="images/image.png" alt="Image" width="80" height="80">
+      <img src="CounterApp/images/image.png" alt="Image" width="80" height="80">
     <br />
     <a href="https://counterapp-459a3.web.app/">Live Preview</a>
   </h1>
@@ -32,4 +32,4 @@ The functions are called through an event listener (addEventListener) which, acc
 <!-- CONTACT -->
 ## Link
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://counterapp-459a3.web.app/](https://counterapp-459a3.web.app/)
