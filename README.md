@@ -24,4 +24,3 @@ The functions are called through an event listener (addEventListener) which, acc
 * ```HTML```
 * ```CSS```
 * ```JAVASCRIPT```
-* ```.ENV```
