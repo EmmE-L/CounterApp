@@ -24,8 +24,4 @@ The functions are called through an event listener (addEventListener) which, acc
 * ```HTML```
 * ```CSS```
 * ```JAVASCRIPT```
-
-
-## Link
-
-Project Link: <a href="https://counterapp-459a3.web.app/">https://counterapp-459a3.web.app/</a>
+* ```.ENV```
